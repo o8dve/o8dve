@@ -1,40 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30&height=220&section=header&text=Bug%20Bounty%20&%20Tool%20Dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20|%20C#%20|%20VS%20Code&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=220&section=header&text=Rahim%20|%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C#%20•%20Python%20•%20HTML%20•%20CSS%20•%20JS&descSize=16&descAlignY=62" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=orange&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Target-Secured-red?style=flat-square&logo=letsencrypt" alt="Status"/>
-</div>
-
----
-
-### 🎯 Focus & Domain
-
-<div align="center">
-
-| **Core Domain** | **Primary Mission** |
-| :---: | :---: |
-|  **Bug Bounty** | Finding vulnerabilities, analyzing security flaws, and hunting bugs. |
-|  **Tool Development** | Building custom automation scripts & security tools. |
-
+  <img src="https://komarev.com/ghpvc/?username=o8dve&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
 
-### 💻 Tech Stack & Environment
-
 <div align="center">
 
-| **Languages** | **Editor & Workspace** |
-| :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | ![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Tech Stack & Languages** |
+| :---: |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,10&height=120&section=footer" />
 </div>
